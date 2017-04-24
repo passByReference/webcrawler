@@ -11,3 +11,9 @@ class Proj3ArchitecturePipeline(object):
         if item['_h1_tag']:
             item['_h1_tag'] = item['_h1_tag'][0].upper()
         return item
+
+class Proj3ArchitecturePipeline2(object):
+    def process_item(self, item, spider):
+        if item['_h1_tag']:
+            print(type(item['_h1_tag'][0]))
+        return item

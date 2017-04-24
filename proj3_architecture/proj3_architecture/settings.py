@@ -66,6 +66,8 @@ ROBOTSTXT_OBEY = True
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
    'proj3_architecture.pipelines.Proj3ArchitecturePipeline': 300,
+   'proj3_architecture.pipelines.Proj3ArchitecturePipeline2': 400,
+
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
