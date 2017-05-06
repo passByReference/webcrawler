@@ -15,7 +15,7 @@
       <file leaf-file-name="quotes_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/quotes_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
+            <state relative-caret-position="60">
               <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -34,23 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cnn_spider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cnn/spiders/cnn_spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="books.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="books.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="450">
+              <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
               <folding>
                 <element signature="e#24#46#0" expanded="true" />
               </folding>
@@ -58,11 +46,88 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cnn/settings.py">
+      <file leaf-file-name="books.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../books/books/spiders/books.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="676">
+              <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+              <folding>
+                <element signature="e#24#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../books/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23115">
+              <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
+              <folding>
+                <marker date="1494105098000" expanded="true" signature="55686:55972" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="55974:56229" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="56248:56266" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="56311:57063" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="56316:56369" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1494105098000" expanded="true" signature="56591:56971" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="56783:56971" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="57092:57243" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="57246:57494" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="57606:57772" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="57795:57842" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="57886:58044" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="58964:61915" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="59095:60076" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="59360:60020" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="59455:59901" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="59777:59901" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="60090:61915" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="60257:60365" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="60501:61915" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="60572:61915" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="60754:61915" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="60783:61833" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="60877:61749" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="60949:61749" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="61073:61749" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="61482:61703" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="61551:61703" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="61925:62927" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="61934:62832" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="62939:63120" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="63209:63862" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="63999:64089" ph="..." />
+                <marker date="1494105098000" expanded="true" signature="64199:64334" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../books/books/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
               <folding />
             </state>
           </provider>
@@ -81,6 +146,7 @@
     <findStrings>
       <find>quote</find>
       <find>USER_agent</find>
+      <find>user_</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -93,6 +159,10 @@
         <option value="$PROJECT_DIR$/cnn/settings.py" />
         <option value="$PROJECT_DIR$/cnn/spiders/cnn_spider.py" />
         <option value="$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py" />
+        <option value="$PROJECT_DIR$/../books/books/settings.py" />
+        <option value="$PROJECT_DIR$/../books/books/spiders/books.py" />
+        <option value="$PROJECT_DIR$/../books/books/main.py" />
+        <option value="$PROJECT_DIR$/../books/main.py" />
       </list>
     </option>
   </component>
@@ -115,51 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proj2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proj2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proj2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proj2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proj2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spiders" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="cnn" />
@@ -176,7 +203,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cnn" />
+              <option name="myItemId" value="books_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books_crawler" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -186,22 +217,70 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cnn" />
+              <option name="myItemId" value="books_crawler" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="books_crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spiders" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.documentation.PythonDocumentationConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,7 +294,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.books">
+    <configuration default="false" name="books" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../books/books/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="books" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../books/books/spiders/books.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,6 +377,14 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.books" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.books" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -297,15 +402,14 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14377682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14806867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28554216" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3421687" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41084337" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -314,6 +418,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871014" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -341,17 +446,236 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../books/books/spiders/books.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23655">
+          <caret line="1577" column="0" lean-forward="false" selection-start-line="1577" selection-start-column="0" selection-end-line="1577" selection-end-column="0" />
+          <folding>
+            <marker date="1494105098000" expanded="true" signature="55686:55972" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="55974:56229" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56248:56266" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56311:57063" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56316:56369" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1494105098000" expanded="true" signature="56591:56971" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56783:56971" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57092:57243" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57246:57494" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57606:57772" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57795:57842" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57886:58044" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="58964:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59095:60076" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59360:60020" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59455:59901" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59777:59901" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60090:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60257:60365" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60501:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60572:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60754:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60783:61833" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60877:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60949:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61073:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61482:61703" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61551:61703" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61925:62927" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61934:62832" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="62939:63120" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="63209:63862" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="63999:64089" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="64199:64334" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/spiders/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23115">
+          <caret line="1577" column="0" lean-forward="false" selection-start-line="1577" selection-start-column="0" selection-end-line="1577" selection-end-column="0" />
+          <folding>
+            <marker date="1494105098000" expanded="true" signature="55686:55972" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="55974:56229" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56248:56266" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56311:57063" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56316:56369" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1494105098000" expanded="true" signature="56591:56971" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56783:56971" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57092:57243" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57246:57494" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57606:57772" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57795:57842" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57886:58044" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="58964:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59095:60076" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59360:60020" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59455:59901" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59777:59901" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60090:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60257:60365" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60501:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60572:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60754:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60783:61833" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60877:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60949:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61073:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61482:61703" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61551:61703" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61925:62927" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61934:62832" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="62939:63120" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="63209:63862" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="63999:64089" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="64199:64334" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/spiders/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cnn/spiders/cnn_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -367,9 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -377,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -385,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -393,17 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/quotes_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -411,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -421,14 +726,108 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="450">
+          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23115">
+          <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
+          <folding>
+            <marker date="1494105098000" expanded="true" signature="55686:55972" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="55974:56229" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56248:56266" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56311:57063" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56316:56369" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1494105098000" expanded="true" signature="56591:56971" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="56783:56971" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57092:57243" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57246:57494" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57606:57772" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57795:57842" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="57886:58044" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="58964:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59095:60076" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59360:60020" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59455:59901" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="59777:59901" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60090:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60257:60365" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60501:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60572:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60754:61915" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60783:61833" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60877:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="60949:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61073:61749" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61482:61703" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61551:61703" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61925:62927" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="61934:62832" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="62939:63120" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="63209:63862" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="63999:64089" ph="..." />
+            <marker date="1494105098000" expanded="true" signature="64199:64334" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/main.py" />
+    <entry file="file://$PROJECT_DIR$/../books/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/spiders/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
           <folding>
             <element signature="e#24#46#0" expanded="true" />
           </folding>
