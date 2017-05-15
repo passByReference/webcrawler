@@ -15,8 +15,8 @@
       <file leaf-file-name="quotes_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/quotes_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="364">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -37,7 +37,7 @@
       <file leaf-file-name="books.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="380">
               <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
               <folding>
                 <element signature="e#24#46#0" expanded="true" />
@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="books.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="books.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../books/books/spiders/books.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#24#46#0" expanded="true" />
               </folding>
@@ -58,67 +58,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../books/main.py">
+      <file leaf-file-name="HTTPClient.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../python/HTTPClient.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <file leaf-file-name="Parser.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../python/Parser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23115">
-              <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
+            <state relative-caret-position="236">
+              <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
               <folding>
-                <marker date="1494105098000" expanded="true" signature="55686:55972" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="55974:56229" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="56248:56266" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="56311:57063" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="56316:56369" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-                <marker date="1494105098000" expanded="true" signature="56591:56971" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="56783:56971" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="57092:57243" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="57246:57494" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="57606:57772" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="57795:57842" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="57886:58044" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="58964:61915" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="59095:60076" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="59360:60020" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="59455:59901" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="59777:59901" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="60090:61915" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="60257:60365" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="60501:61915" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="60572:61915" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="60754:61915" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="60783:61833" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="60877:61749" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="60949:61749" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="61073:61749" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="61482:61703" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="61551:61703" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="61925:62927" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="61934:62832" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="62939:63120" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="63209:63862" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="63999:64089" ph="..." />
-                <marker date="1494105098000" expanded="true" signature="64199:64334" ph="..." />
+                <element signature="e#0#33#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <file leaf-file-name="cnn_spider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/spiders/cnn_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="300">
+              <caret line="20" column="31" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,8 +95,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../books/books/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
+            <state relative-caret-position="232">
+              <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -159,10 +128,13 @@
         <option value="$PROJECT_DIR$/cnn/settings.py" />
         <option value="$PROJECT_DIR$/cnn/spiders/cnn_spider.py" />
         <option value="$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py" />
-        <option value="$PROJECT_DIR$/../books/books/settings.py" />
-        <option value="$PROJECT_DIR$/../books/books/spiders/books.py" />
         <option value="$PROJECT_DIR$/../books/books/main.py" />
         <option value="$PROJECT_DIR$/../books/main.py" />
+        <option value="$PROJECT_DIR$/../books/books/settings.py" />
+        <option value="$PROJECT_DIR$/../books/books/spiders/books.py" />
+        <option value="$PROJECT_DIR$/../../../python/HTTPClient.py" />
+        <option value="$PROJECT_DIR$/../../../python/parser.py" />
+        <option value="$PROJECT_DIR$/../../../python/Parser.py" />
       </list>
     </option>
   </component>
@@ -187,6 +159,16 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="cnn" />
@@ -264,6 +246,48 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cnn" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -409,7 +433,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41084337" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18674698" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -450,7 +474,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../books/books/spiders/books.py</url>
-          <line>57</line>
+          <line>114</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -502,42 +526,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23655">
           <caret line="1577" column="0" lean-forward="false" selection-start-line="1577" selection-start-column="0" selection-end-line="1577" selection-end-column="0" />
-          <folding>
-            <marker date="1494105098000" expanded="true" signature="55686:55972" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="55974:56229" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56248:56266" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56311:57063" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56316:56369" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1494105098000" expanded="true" signature="56591:56971" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56783:56971" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57092:57243" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57246:57494" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57606:57772" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57795:57842" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57886:58044" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="58964:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59095:60076" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59360:60020" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59455:59901" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59777:59901" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60090:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60257:60365" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60501:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60572:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60754:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60783:61833" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60877:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60949:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61073:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61482:61703" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61551:61703" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61925:62927" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61934:62832" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="62939:63120" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="63209:63862" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="63999:64089" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="64199:64334" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -607,42 +596,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23115">
           <caret line="1577" column="0" lean-forward="false" selection-start-line="1577" selection-start-column="0" selection-end-line="1577" selection-end-column="0" />
-          <folding>
-            <marker date="1494105098000" expanded="true" signature="55686:55972" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="55974:56229" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56248:56266" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56311:57063" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56316:56369" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1494105098000" expanded="true" signature="56591:56971" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56783:56971" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57092:57243" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57246:57494" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57606:57772" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57795:57842" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57886:58044" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="58964:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59095:60076" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59360:60020" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59455:59901" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59777:59901" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60090:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60257:60365" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60501:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60572:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60754:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60783:61833" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60877:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60949:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61073:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61482:61703" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61551:61703" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61925:62927" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61934:62832" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="62939:63120" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="63209:63862" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="63999:64089" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="64199:64334" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,13 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cnn/spiders/cnn_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="49" column="50" lean-forward="false" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../books_crawler/links.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -729,81 +676,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/quotes_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-          <folding>
-            <element signature="e#24#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-229">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../books/books/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23115">
-          <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
-          <folding>
-            <marker date="1494105098000" expanded="true" signature="55686:55972" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="55974:56229" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56248:56266" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56311:57063" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56316:56369" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-            <marker date="1494105098000" expanded="true" signature="56591:56971" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="56783:56971" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57092:57243" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57246:57494" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57606:57772" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57795:57842" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="57886:58044" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="58964:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59095:60076" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59360:60020" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59455:59901" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="59777:59901" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60090:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60257:60365" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60501:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60572:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60754:61915" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60783:61833" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60877:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="60949:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61073:61749" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61482:61703" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61551:61703" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61925:62927" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="61934:62832" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="62939:63120" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="63209:63862" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="63999:64089" ph="..." />
-            <marker date="1494105098000" expanded="true" signature="64199:64334" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -824,12 +700,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../books/books/spiders/books.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="57" column="43" lean-forward="false" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+        <state relative-caret-position="382">
+          <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="23" column="46" lean-forward="false" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books_crawler/books_crawler/spiders/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
           <folding>
             <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/spiders/cnn_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../proj2/proj2/spiders/quotes_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../books/books/spiders/books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python/HTTPClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python/Parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="55" column="48" lean-forward="true" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
