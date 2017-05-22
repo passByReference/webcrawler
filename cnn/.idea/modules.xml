@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../books/.idea/books.iml" filepath="$PROJECT_DIR$/../books/.idea/books.iml" />
       <module fileurl="file://$PROJECT_DIR$/../books_crawler/.idea/books_crawler.iml" filepath="$PROJECT_DIR$/../books_crawler/.idea/books_crawler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cnn.iml" filepath="$PROJECT_DIR$/.idea/cnn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../nextGenAdBlock/.idea/nextGenAdBlock.iml" filepath="$PROJECT_DIR$/../../nextGenAdBlock/.idea/nextGenAdBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/../proj2/.idea/proj2.iml" filepath="$PROJECT_DIR$/../proj2/.idea/proj2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../python/.idea/python.iml" filepath="$PROJECT_DIR$/../../../python/.idea/python.iml" />
     </modules>

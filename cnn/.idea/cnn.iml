@@ -5,9 +5,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="proj2" />
-    <orderEntry type="module" module-name="books_crawler" />
     <orderEntry type="module" module-name="books" />
     <orderEntry type="module" module-name="python" />
+    <orderEntry type="module" module-name="nextGenAdBlock" />
+    <orderEntry type="module" module-name="books_crawler" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
